@@ -1,6 +1,6 @@
 # Микросервисный проект - Доставка еды "Голодный волк".
 
-[![Java CI](https://github.com/PerpetuumEbner/job4j_order/actions/workflows/maven.yml/badge.svg)](https://github.com/PerpetuumEbner/job4j_order/actions/workflows/maven.yml)
+[![Java CI](https://github.com/PerpetuumEbner/job4j_notification/actions/workflows/maven.yml/badge.svg)](https://github.com/PerpetuumEbner/job4j_notification/actions/workflows/maven.yml)
 
 ## Общее описание:
 
